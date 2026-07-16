@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+<h1 align="center">👨‍💻 Sobre mí</h1>
 
 <br>
 
