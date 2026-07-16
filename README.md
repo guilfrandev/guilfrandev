@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! 👋 Soy Guillermo</h1>
 
 <p align="center">
-  <strong>18 años • Estudiante de 42 Málaga • Programación de Sistemas • Linux</strong>
+  <strong>18 años • Estudiante de 42 Málaga</strong>
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 - 🐧 Usuario de **Linux**
 - 🌱 Aprendiendo continuamente
 - 🚀 Interesado en programación de sistemas y bajo nivel
-- 🎯 Objetivo: Convertirme en Ingeniero de Software
 
 ---
 
