@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">✦ Sobre mí ✦</h2>
+<h2 align="center"> Sobre mí </h2>
 
 <br>
 <div align="justify">
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">✦ Stack & Herramientas ✦</h2>
+<h2 align="center"> Stack & Herramientas </h2>
 
 <br>
 <p align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">✦ Trayectoria & Proyectos ✦</h2>
+<h2 align="center"> Trayectoria & Proyectos </h2>
 
 <br>
 <p align="center">
