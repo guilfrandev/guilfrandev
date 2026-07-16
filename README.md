@@ -10,63 +10,71 @@
 
 <br>
 
-<!-- Frase para pensar -->
 <p align="center">
-  <i>"El código es solo el lenguaje; la capacidad de cuestionar el sistema es lo que realmente resuelve los problemas."</i>
+  <i>"El código es el lenguaje en el que traduzco mi curiosidad en soluciones."</i>
 </p>
 
 <br>
 
 ---
 
-### 01. MI CAMINO EN 42
+### ✦ Perfil Académico
 <br>
 <div align="justify">
-  <img align="right" width="150" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
+  <img align="right" width="120" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
   
-  El ecosistema de <b>42 Málaga</b> no es solo una escuela; es un entorno donde el aprendizaje se construye a través de la experimentación constante. Aquí, el código no se memoriza, se comprende a base de iteraciones, errores y desafíos técnicos.
+  Más allá de ser estudiante en <b>42 Málaga</b>, entiendo esta etapa como un proceso de inmersión técnica. Mi enfoque combina la disciplina necesaria para resolver problemas complejos con la agilidad mental que exige la metodología <i>peer-to-peer</i>. No busco solo completar proyectos, sino comprender la lógica profunda que sostiene el software actual.
   <br><br>
-  Mi enfoque actual se centra en entender cómo interactúan los sistemas desde su base, manteniendo siempre una mentalidad crítica frente a cada reto que el <i>cursus</i> plantea.
+  Fuera de los retos del <i>cursus</i>, mi interés reside en la optimización y en cómo las estructuras de bajo nivel definen el rendimiento de cualquier sistema.
 </div>
 <br>
 
 ---
 
-### 02. TECNOLOGÍAS & HERRAMIENTAS
+### ✦ Stack & Entorno
 <br>
 <div align="center">
 
-| Categotía | Tecnologías |
+| Core | Technologies |
 | :--- | :--- |
-| **Lenguajes** | <code>C</code> <code>Shell</code> <code>Python</code> |
-| **Entorno** | <code>Linux</code> <code>Unix</code> <code>Vim</code> |
-| **Control** | <code>Git</code> <code>GitHub</code> |
+| **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white"> |
+| **Workflow** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"> |
 
 </div>
-<br>
-<p align="center">
-  <sub><i>"Dominar la herramienta es el primer paso para liberar la creatividad técnica."</i></sub>
-</p>
 <br>
 
 ---
 
-### 03. BITÁCORA DE PROYECTOS
+### ✦ Laboratorio de Proyectos
 <br>
 <p align="center">
-  <i>"En construcción: Los siguientes hitos de mi formación se encuentran en proceso de desarrollo y documentación."</i>
-  <br><br>
-  <img src="https://img.shields.io/badge/Estado-En_desarrollo-yellow?style=for-the-badge">
+  <i>"Transformando retos de aprendizaje en código funcional. Área de trabajo en constante actualización."</i>
 </p>
 
+<br>
+
 <!-- 
-Nota: Cuando tengas los repositorios, sustituye este bloque por la estructura de tarjetas:
-<table>
+AQUÍ IRÁN TUS PROYECTOS. 
+Cuando subas repositorios, reemplaza este comentario por la tabla:
+
+<table width="100%">
   <tr>
-    <td width="50%"><h4>Proyecto X</h4><p>Descripción...</p></td>
-    <td width="50%"><h4>Proyecto Y</h4><p>Descripción...</p></td>
+    <td width="50%" valign="top">
+      <h4>📍 [Nombre del Proyecto]</h4>
+      <p>Descripción técnica breve y clave.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📍 [Nombre del Proyecto]</h4>
+      <p>Descripción técnica breve y clave.</p>
+    </td>
   </tr>
 </table>
 -->
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Progress-blue?style=for-the-badge">
+</p>
 
 <br>
