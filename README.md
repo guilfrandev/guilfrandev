@@ -26,7 +26,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,vscode" />
