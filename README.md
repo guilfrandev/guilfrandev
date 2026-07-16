@@ -4,10 +4,6 @@
 
 <h1 align="center">Hola, soy Guillermo 👋</h1>
 
-<p align="center">
-  <em>Student | 42 Málaga</em>
-</p>
-
 <br>
 
 <p align="center">
