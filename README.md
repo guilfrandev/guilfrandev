@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="image_d9bc3e.jpg" alt="Guillermo - Estudiante 42" width="100%">
+  <img src="https://i.ibb.co/gLF9cZ4M/BANNER.png" alt="Guillermo - Estudiante 42" width="100%">
 </p>
 
 <!--
