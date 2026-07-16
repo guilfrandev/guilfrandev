@@ -10,30 +10,29 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Transformando%20curiosidad%20en%20c%C3%B3digo&fontSize=30&fontAlignY=40" />
-</div>
-
-<br>
-
 ---
 
 <h2 align="center">✦ Sobre mí ✦</h2>
 
 <br>
 
-<div align="justify">
-  <p>
-    Soy un entusiasta de la tecnología y el desarrollo de sistemas. Mi enfoque principal es entender cómo funcionan las cosas desde la raíz; no me conformo con saber cómo usar una herramienta, sino que busco comprender la lógica, los algoritmos y la arquitectura que la hacen posible.
-  </p>
-  
-  <p>
-    Mi trayectoria actual es un viaje constante de aprendizaje. Me defino como una persona curiosa, metódica y apasionada por los desafíos técnicos complejos. Creo firmemente que el mejor código no es solo aquel que funciona, sino el que está diseñado para ser eficiente, escalable y comprensible.
-  </p>
-
-  <p>
-    Fuera del editor de código, invierto tiempo en explorar nuevas metodologías de trabajo, investigar el comportamiento del hardware y mejorar mis capacidades de resolución de problemas. Estoy en una etapa de crecimiento donde cada proyecto es una oportunidad para aprender algo nuevo y refinar mi criterio técnico.
-  </p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="30%" align="center" style="background-color: #2d3436; color: white; padding: 20px; border-radius: 10px;">
+        <h3>Mi Enfoque</h3>
+        <p>No busco solo escribir código, busco entender la lógica que lo sostiene.</p>
+      </td>
+      <td width="70%" style="padding: 20px;">
+        <p align="justify">
+          Soy un entusiasta del desarrollo técnico y la resolución de problemas complejos. Mi curiosidad me lleva a explorar constantemente cómo funcionan los sistemas desde su raíz, priorizando siempre la <b>eficiencia</b> y la <b>arquitectura</b> por encima de soluciones rápidas pero poco escalables.
+        </p>
+        <p align="justify">
+          Me considero una persona metódica y apasionada por los desafíos técnicos. Creo firmemente que la calidad de un software no solo se mide por su funcionamiento, sino por su diseño y su capacidad de ser optimizado. Actualmente, invierto mi tiempo en profundizar en el comportamiento del hardware y en refinar mi lógica para abordar proyectos con una mentalidad analítica y estructurada.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -88,12 +87,12 @@
 
 ---
 
-<h2 align="center">✦ Bitácora de Proyectos ✦</h2>
+<h2 align="center">✦ Trayectoria & Proyectos ✦</h2>
 
 <br>
 
 <p align="center">
-  <i>"Espacio en construcción dedicado a documentar mi evolución técnica."</i>
+  <i>"Área de trabajo dedicada a los retos técnicos y proyectos que voy superando en mi formación."</i>
 </p>
 
 <br>
