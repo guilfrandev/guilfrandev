@@ -2,10 +2,7 @@
   <img src="https://i.ibb.co/gLF9cZ4M/BANNER.png" alt="Guillermo - Estudiante 42" width="100%">
 </p>
 
-<h1 align="center">
-  Hola, soy Guillermo 
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" width="30px" style="vertical-align: middle;">
-</h1>
+<h1 align="center">Hola, soy Guillermo 👋</h1>
 
 
 <!--
