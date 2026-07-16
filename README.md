@@ -4,49 +4,76 @@
 
 <h1 align="center">Hola, soy Guillermo 👋</h1>
 
+<p align="center">
+  <em>Software Engineering Student | 42 Málaga</em>
+</p>
+
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com">📩 Contactar</a> • 
+  <a href="https://linkedin.com/in/tu-perfil">💼 LinkedIn</a> • 
+  <a href="https://github.com/tu-usuario">🐙 GitHub</a>
+</p>
+
 ---
 
-### 01. OVERVIEW
-
+### 01. SOBRE MÍ
 <p align="justify">
-Software Engineering Student at <b>42 Málaga</b> with a strong focus on building efficient, scalable systems. 
-Passionate about <b>low-level architecture</b> and <b>algorithmic optimization</b>, I thrive in environments that demand self-reliance and peer-to-peer collaboration. My development philosophy is centered on clean, high-performance code and agile problem-solving.
+Estudiante de Ingeniería de Software en <b>42 Málaga</b>. Mi enfoque técnico se centra en el desarrollo de sistemas de bajo nivel, la optimización algorítmica y la arquitectura backend. Mi formación se basa en una metodología <b>peer-to-peer</b>, caracterizada por el aprendizaje autónomo, la resolución ágil de problemas y una búsqueda constante de la eficiencia técnica.
 </p>
 
 <br>
 
 <div align="center">
-  <b>Engineering Focus:</b> Low-level Systems &nbsp;•&nbsp; Backend Architecture &nbsp;•&nbsp; Algorithmic Efficiency
-  <br>
-  <b>Methodology:</b> Peer-to-Peer &nbsp;•&nbsp; Self-Managed &nbsp;•&nbsp; Agile-Oriented
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>Arquitectura de Sistemas</b></td>
+      <td align="center" width="33%"><b>Optimización Algorítmica</b></td>
+      <td align="center" width="33%"><b>Backend Engineering</b></td>
+    </tr>
+  </table>
 </div>
 
-<br>
 ---
 
 ### 02. SKILLS & TECHNOLOGIES
-<div align="left">
+<div align="center">
 
-  <!-- Usamos badges de Shield.io para un look profesional -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+**Lenguajes de Programación**<br>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+<br><br>
+
+**Herramientas & Entorno**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 
 </div>
 
 ---
 
-### 03. PROJECTS
-<!-- Usamos un formato de tarjeta para destacar proyectos -->
+### 03. PROYECTOS DESTACADOS
+<!-- Estructura de tarjetas para dar elegancia -->
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>()</h4>
+      <h4>🚀 Nombre del Proyecto</h4>
+      <p align="justify">Breve descripción técnica del proyecto. Resalta aquí el reto técnico, el uso de punteros, gestión de memoria o la lógica que implementaste.</p>
+      <a href="https://github.com/tu-usuario/repo">🔗 Ver repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <h4>()</h4>
+      <h4>⚙️ Nombre del Proyecto</h4>
+      <p align="justify">Breve descripción técnica del proyecto. Enfoque en la eficiencia y cómo resolviste los cuellos de botella algorítmicos.</p>
+      <a href="https://github.com/tu-usuario/repo">🔗 Ver repositorio</a>
     </td>
   </tr>
 </table>
 
 ---
+
+<p align="center">
+  <small>Construido con dedicación y código limpio.</small>
+</p>
