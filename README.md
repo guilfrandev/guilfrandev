@@ -20,9 +20,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 - 🎓 Estudiante de **42 Málaga**
 - 💻 Programando principalmente en **C**
-- 🐧 Usuario de **Linux**
 - 🌱 Aprendiendo continuamente
-- 🚀 Interesado en programación de sistemas y bajo nivel
 
 ---
 
