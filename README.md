@@ -45,7 +45,13 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ## 🚀 Proyectos
 
-Los proyectos irán apareciendo conforme avance en el **Common Core** de 42.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20proceso-blue?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  Los proyectos irán apareciendo conforme avance en el <strong>Common Core</strong> de 42 Málaga.
+</p>
 
 ---
 
