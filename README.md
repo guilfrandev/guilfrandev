@@ -5,11 +5,7 @@
 <h1 align="center">¡Hola! 👋 Soy Guillermo</h1>
 
 <p align="center">
-  <strong>18 años • Estudiante de 42 Málaga</strong>
-</p>
-
-<p align="center">
-  <i>"Aprender, construir y mejorar cada día."</i>
+  <i>"La curiosidad impulsa el aprendizaje; el código lo hace realidad."</i>
 </p>
 
 ---
@@ -40,25 +36,16 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ## 📚 Actualmente
 
-- ⚙️ Aprendiendo programación de sistemas
-- 📖 Profundizando en algoritmos y estructuras de datos
-- 🐧 Trabajando diariamente en Linux
-- 🔧 Mejorando mi flujo de trabajo con Git y GitHub
-- 🚀 Desarrollando proyectos del cursus de 42
+- 💻 Aprendiendo C desde sus fundamentos
+- 🐧 Utilizando Linux como entorno principal
+- 🧠 Mejorando mi lógica y resolución de problemas
+- 🚀 Preparándome para afrontar el Common Core
 
 ---
 
 ## 🚀 Proyectos
 
 Los proyectos irán apareciendo conforme avance en el **Common Core** de 42.
-
-Próximamente encontrarás repositorios como:
-
-- 📚 **libft**
-- 🖨️ **ft_printf**
-- 📄 **get_next_line**
-- 🔢 **push_swap**
-- 🐚 **minishell**
 
 ---
 
