@@ -8,13 +8,20 @@
 
 ### 01. OVERVIEW
 
-```text
-[GUILLERMO]
-Role: Software Engineering Student @ 42 Malaga
-Domain: Low-level Systems, Algorithmic Optimization, Backend Architecture.
-Methodology: Peer-to-peer / Self-managed learning / Agile-oriented.
-```
+<p align="justify">
+Software Engineering Student at <b>42 Málaga</b> with a strong focus on building efficient, scalable systems. 
+Passionate about <b>low-level architecture</b> and <b>algorithmic optimization</b>, I thrive in environments that demand self-reliance and peer-to-peer collaboration. My development philosophy is centered on clean, high-performance code and agile problem-solving.
+</p>
 
+<br>
+
+<div align="center">
+  <b>Engineering Focus:</b> Low-level Systems &nbsp;•&nbsp; Backend Architecture &nbsp;•&nbsp; Algorithmic Efficiency
+  <br>
+  <b>Methodology:</b> Peer-to-Peer &nbsp;•&nbsp; Self-Managed &nbsp;•&nbsp; Agile-Oriented
+</div>
+
+<br>
 ---
 
 ### 02. SKILLS & TECHNOLOGIES
