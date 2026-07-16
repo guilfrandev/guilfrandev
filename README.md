@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <i>"El código es el lenguaje en el que traduzco mi curiosidad en soluciones."</i>
+  <i>"El código es el lenguaje en el que traduzco mi curiosidad en soluciones técnicas."</i>
 </p>
 
 <br>
@@ -21,13 +21,40 @@
 <h2 align="center">✦ Sobre mí ✦</h2>
 
 <br>
+
 <div align="justify">
-  <img align="right" width="120" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
+  <img align="right" width="130" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
+
+  <p>
+    Actualmente, mi trayectoria académica se desarrolla en <b>42 Málaga</b>, un ecosistema de aprendizaje intensivo donde la metodología <i>peer-to-peer</i> es el eje central. Mi formación no se limita a la adquisición de lenguajes o sintaxis, sino a la comprensión profunda de la lógica computacional y el comportamiento de los sistemas desde sus cimientos.
+  </p>
   
-  Actualmente formándome en <b>42 Málaga</b>, donde desarrollo mi capacidad técnica a través de la metodología <i>peer-to-peer</i>. Mi enfoque se aleja de la teoría convencional para centrarse en la resolución práctica de problemas y el entendimiento profundo de los sistemas.
-  <br><br>
-  Más allá de las exigencias del <i>cursus</i>, me interesa explorar la lógica que subyace en el software y cómo las estructuras de bajo nivel impactan en el rendimiento final. Considero cada proyecto como una oportunidad para pulir mi lógica y comprender la arquitectura detrás de lo que escribo.
+  <p>
+    Entiendo el desarrollo de software no como una simple tarea de escritura, sino como un proceso riguroso de resolución de problemas. Mi enfoque actual busca el equilibrio entre la eficiencia algorítmica y la estabilidad del código, siempre bajo un entorno de trabajo basado en la autogestión y el aprendizaje colaborativo. Me apasiona entender qué ocurre "bajo el capó" de los sistemas.
+  </p>
 </div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <b>Aprendizaje Proactivo</b><br>
+        <sub>Autonomía frente a los retos técnicos.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>Enfoque de Sistemas</b><br>
+        <sub>Entender el funcionamiento interno.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>Colaboración Peer-to-Peer</b><br>
+        <sub>Crecimiento a través del feedback.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 ---
@@ -50,7 +77,7 @@
 
 <div align="center" style="max-width: 600px; margin: 0 auto;">
   <p align="justify">
-    Actualmente mi flujo de trabajo está fuertemente centrado en el desarrollo de sistemas bajo entornos <b>Unix/Linux</b>. Utilizo <b>C</b> como lenguaje principal para desentrañar el funcionamiento interno de las estructuras de datos, apoyado por <b>Bash</b> para la automatización de procesos y <b>Git</b> para el control de versiones, asegurando un entorno de desarrollo eficiente y disciplinado.
+    Actualmente mi flujo de trabajo está fuertemente centrado en el desarrollo de sistemas bajo entornos <b>Unix/Linux</b>. Utilizo <b>C</b> como lenguaje principal para desentrañar el funcionamiento interno de las estructuras de datos, apoyado por <b>Bash</b> para la automatización de procesos y <b>Git</b> para el control de versiones, asegurando un flujo de trabajo disciplinado y eficiente.
   </p>
 </div>
 
