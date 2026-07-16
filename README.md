@@ -58,9 +58,9 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilfran42&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilfrandev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilfran42&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilfrandev&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
