@@ -77,33 +77,6 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ---
 
-## 🎯 Objetivos
-
-- ✅ Completar el **Common Core** de 42 Málaga
-- 🚀 Mejorar mis habilidades en C
-- 🐧 Profundizar en Linux y sistemas Unix
-- 📚 Aprender C++
-- 🌍 Contribuir a proyectos Open Source
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://github.com/guilfrandev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Añade aquí tu LinkedIn cuando lo tengas -->
-  <!--
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  -->
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guilfran42&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 </p>
