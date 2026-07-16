@@ -80,7 +80,3 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guilfran42&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  ⭐ Gracias por visitar mi perfil.
-</p>
