@@ -64,7 +64,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilfran42&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=guilfrandev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
