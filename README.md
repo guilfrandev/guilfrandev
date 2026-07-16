@@ -10,8 +10,6 @@
   <i>"El código es el lenguaje en el que traduzco mi curiosidad en soluciones."</i>
 </p>
 
-<br>
-
 ---
 
 <h2 align="center">✦ Sobre mí ✦</h2>
