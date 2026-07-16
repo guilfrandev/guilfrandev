@@ -35,16 +35,15 @@
 <h2 align="center">✦ Stack & Herramientas ✦</h2>
 
 <br>
+<p align="center">
+  <i>"Tecnologías y herramientas que utilizo en mi entorno de desarrollo:"</i>
+</p>
+<br>
+
 <div align="center">
-  <i>"El ecosistema técnico con el que construyo y optimizo mis soluciones:"</i>
-  <br><br>
-
-| Área | Tecnologías | Descripción |
-| :--- | :--- | :--- |
-| **Lenguajes** | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | Enfocado en rendimiento y eficiencia algorítmica. |
-| **Workflow** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"> | Control de versiones y edición de alta velocidad. |
-| **Entorno** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> | Desarrollo en sistemas Unix y contenedores. |
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,markdown,supabase,postgres,mongodb,git,vscode,docker,aws,postman,vercel,linux" />
+  </a>
 </div>
 <br>
 
