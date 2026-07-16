@@ -10,9 +10,9 @@
 
 <br>
 
-<p align="center">
-  <i>"El código es el lenguaje en el que traduzco mi curiosidad en soluciones técnicas."</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Transformando%20curiosidad%20en%20c%C3%B3digo&fontSize=30&fontAlignY=40" />
+</div>
 
 <br>
 
@@ -23,33 +23,35 @@
 <br>
 
 <div align="justify">
-  <img align="right" width="130" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
-
   <p>
-    Actualmente, mi trayectoria académica se desarrolla en <b>42 Málaga</b>, un ecosistema de aprendizaje intensivo donde la metodología <i>peer-to-peer</i> es el eje central. Mi formación no se limita a la adquisición de lenguajes o sintaxis, sino a la comprensión profunda de la lógica computacional y el comportamiento de los sistemas desde sus cimientos.
+    Soy un entusiasta de la tecnología y el desarrollo de sistemas. Mi enfoque principal es entender cómo funcionan las cosas desde la raíz; no me conformo con saber cómo usar una herramienta, sino que busco comprender la lógica, los algoritmos y la arquitectura que la hacen posible.
   </p>
   
   <p>
-    Entiendo el desarrollo de software no como una simple tarea de escritura, sino como un proceso riguroso de resolución de problemas. Mi enfoque actual busca el equilibrio entre la eficiencia algorítmica y la estabilidad del código, siempre bajo un entorno de trabajo basado en la autogestión y el aprendizaje colaborativo. Me apasiona entender qué ocurre "bajo el capó" de los sistemas.
+    Mi trayectoria actual es un viaje constante de aprendizaje. Me defino como una persona curiosa, metódica y apasionada por los desafíos técnicos complejos. Creo firmemente que el mejor código no es solo aquel que funciona, sino el que está diseñado para ser eficiente, escalable y comprensible.
+  </p>
+
+  <p>
+    Fuera del editor de código, invierto tiempo en explorar nuevas metodologías de trabajo, investigar el comportamiento del hardware y mejorar mis capacidades de resolución de problemas. Estoy en una etapa de crecimiento donde cada proyecto es una oportunidad para aprender algo nuevo y refinar mi criterio técnico.
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="33%" align="center">
-        <b>Aprendizaje Proactivo</b><br>
-        <sub>Autonomía frente a los retos técnicos.</sub>
+      <td width="33%" align="center" style="background-color: #f8f9fa;">
+        <b>💡 Visión Analítica</b><br>
+        <sub>Descomposición de problemas.</sub>
       </td>
-      <td width="33%" align="center">
-        <b>Enfoque de Sistemas</b><br>
-        <sub>Entender el funcionamiento interno.</sub>
+      <td width="33%" align="center" style="background-color: #f8f9fa;">
+        <b>⚙️ Enfoque Técnico</b><br>
+        <sub>Eficiencia y bajo nivel.</sub>
       </td>
-      <td width="33%" align="center">
-        <b>Colaboración Peer-to-Peer</b><br>
-        <sub>Crecimiento a través del feedback.</sub>
+      <td width="33%" align="center" style="background-color: #f8f9fa;">
+        <b>🚀 Aprendizaje Activo</b><br>
+        <sub>Curiosidad como motor.</sub>
       </td>
     </tr>
   </table>
@@ -59,15 +61,13 @@
 
 ---
 
-<h2 align="center">✦ Stack & Herramientas ✦</h2>
+<h2 align="center">✦ Stack & Tecnologías ✦</h2>
 
-<br>
-<p align="center">
-  <i>"Mi entorno de desarrollo y tecnologías fundamentales:"</i>
-</p>
 <br>
 
 <div align="center">
+  <p><i>Mi caja de herramientas fundamental para el desarrollo:</i></p>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,bash,git,linux,vscode" />
   </a>
@@ -75,9 +75,12 @@
 
 <br>
 
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-  <p align="justify">
-    Actualmente mi flujo de trabajo está fuertemente centrado en el desarrollo de sistemas bajo entornos <b>Unix/Linux</b>. Utilizo <b>C</b> como lenguaje principal para desentrañar el funcionamiento interno de las estructuras de datos, apoyado por <b>Bash</b> para la automatización de procesos y <b>Git</b> para el control de versiones, asegurando un flujo de trabajo disciplinado y eficiente.
+<div align="center" style="background-color: #1a1a1a; color: #ffffff; padding: 20px; border-radius: 10px;">
+  <p>
+    <b>C:</b> Mi pilar para la gestión de memoria y lógica de sistemas.<br>
+    <b>Bash:</b> La clave para la automatización y eficiencia en el entorno Unix.<br>
+    <b>Git:</b> Indispensable para el control de versiones y el trabajo colaborativo.<br>
+    <b>Linux:</b> El entorno donde me siento más cómodo operando y configurando.
   </p>
 </div>
 
@@ -85,19 +88,23 @@
 
 ---
 
-<h2 align="center">✦ Trayectoria & Proyectos ✦</h2>
+<h2 align="center">✦ Bitácora de Proyectos ✦</h2>
 
 <br>
+
 <p align="center">
-  <i>"Área de trabajo dedicada a los retos técnicos y proyectos que voy superando en mi formación."</i>
+  <i>"Espacio en construcción dedicado a documentar mi evolución técnica."</i>
 </p>
 
 <br>
 
-<!-- 
-AQUÍ IRÁN TUS PROYECTOS. 
-Cuando subas tus repositorios, descomenta y utiliza este bloque:
+<div align="center">
+  <img src="https://img.shields.io/badge/Estado-En_Progreso-brightgreen?style=for-the-badge">
+</div>
 
+<br>
+
+<!-- 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -111,9 +118,5 @@ Cuando subas tus repositorios, descomenta y utiliza este bloque:
   </tr>
 </table>
 -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En_desarrollo-blue?style=for-the-badge">
-</p>
 
 <br>
