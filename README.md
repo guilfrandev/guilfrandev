@@ -12,6 +12,8 @@
 
 ## 👨‍💻 Sobre mí
 
+<br>
+
 Soy **Guillermo**, tengo **18 años** y actualmente estudio en **42 Málaga**, donde aprendo programación a través de una metodología basada en proyectos y resolución de problemas.
 
 Me apasiona comprender cómo funciona el software desde sus fundamentos. Disfruto trabajando con **C**, explorando **Linux** y enfrentándome a retos que me obliguen a pensar, aprender y mejorar como desarrollador.
