@@ -18,39 +18,54 @@ Methodology: Peer-to-peer / Self-managed learning / Agile-oriented.
 
 ---
 
-<div align="center">
-  <h3>👨‍💻 Desarrollador de Software | Estudiante en 42 Málaga</h3>
-  <p>Enfocado en la creación de soluciones eficientes, código escalable y resolución de retos complejos mediante la metodología <em>peer-to-peer</em>.</p>
-</div>
+<p align="center">
+  <img src="https://i.ibb.co/gLF9cZ4M/BANNER.png" alt="Guillermo - Estudiante 42" width="100%">
+</p>
 
-<br>
+<h1 align="center">Hola, soy Guillermo 👋</h1>
 
-<div align="center">
+---
 
-| 📍 Ubicación | 🚀 Especialidad | 💡 Enfoque |
-| :--- | :--- | :--- |
-| Málaga, España | Desarrollo de Sistemas | Código Limpio y Eficiente |
+<div align="left">
+
+### 01. OVERVIEW
+```text
+[GUILLERMO]
+Role: Software Engineering Student @ 42 Malaga
+Domain: Low-level Systems, Algorithmic Optimization, Backend Architecture.
+Methodology: Peer-to-peer / Self-managed learning / Agile-oriented.
+```
+---
+
+### 02. SKILLS & TECHNOLOGIES
+<div align="left">
+
+  <!-- Usamos badges de Shield.io para un look profesional -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 
 ---
 
-<!--
-<p align="center">
-  <em>Estudiante de 42 Málaga.</em>
-</p>
+### 03. PROJECTS & IMPACT
+<!-- Usamos un formato de tarjeta para destacar proyectos -->
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠 Core Systems</h4>
+      <p>Desarrollo de proyectos fundamentales en 42: gestión de memoria, procesos y threads en C.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Backend & Automation</h4>
+      <p>Automatización de infraestructuras y desarrollo de lógica backend con arquitectura escalable.</p>
+    </td>
+  </tr>
+</table>
 
-**guilfrandev/guilfrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
