@@ -22,28 +22,22 @@ Methodology: Peer-to-peer / Self-managed learning / Agile-oriented.
 
   <!-- Usamos badges de Shield.io para un look profesional -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 
 ---
 
-### 03. PROJECTS & IMPACT
+### 03. PROJECTS
 <!-- Usamos un formato de tarjeta para destacar proyectos -->
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛠 Core Systems</h4>
-      <p>Desarrollo de proyectos fundamentales en 42: gestión de memoria, procesos y threads en C.</p>
+      <h4>()</h4>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Backend & Automation</h4>
-      <p>Automatización de infraestructuras y desarrollo de lógica backend con arquitectura escalable.</p>
+      <h4>()</h4>
     </td>
   </tr>
 </table>
