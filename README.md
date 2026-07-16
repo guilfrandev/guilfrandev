@@ -4,11 +4,12 @@
 
 <h1 align="center">Hola, soy Guillermo</h1>
 
+<!--
 <p align="center">
   <em>Estudiante de 42 Málaga.</em>
 </p>
 
-<!--
+
 **guilfrandev/guilfrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
