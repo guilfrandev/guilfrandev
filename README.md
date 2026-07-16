@@ -6,6 +6,18 @@
 
 ---
 
+### 💻 PERFIL TÉCNICO
+
+```text
+> [GUILLERMO]
+> Estudiante en @42Malaga
+> 
+> Enfoque: Low-level programming, System Architecture & Algorithmic efficiency.
+> Metodología: Peer-to-peer learning, rigor técnico y depuración de sistemas complejos.
+```
+
+---
+
 <div align="center">
   <h3>👨‍💻 Desarrollador de Software | Estudiante en 42 Málaga</h3>
   <p>Enfocado en la creación de soluciones eficientes, código escalable y resolución de retos complejos mediante la metodología <em>peer-to-peer</em>.</p>
