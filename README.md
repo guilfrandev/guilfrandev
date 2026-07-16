@@ -34,15 +34,6 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ---
 
-## 📚 Actualmente
-
-- 💻 Aprendiendo C desde sus fundamentos
-- 🐧 Utilizando Linux como entorno principal
-- 🧠 Mejorando mi lógica y resolución de problemas
-- 🚀 Preparándome para afrontar el Common Core
-
----
-
 ## 🚀 Proyectos
 
 <p align="center">
