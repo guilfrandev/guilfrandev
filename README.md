@@ -16,9 +16,7 @@
 
 <br>
 <div align="justify">
-  <img align="right" width="120" src="https://raw.githubusercontent.com/42-School/42/master/42_logo.svg">
-  
-  Actualmente formándome en <b>42 Málaga</b>, donde desarrollo mi capacidad técnica a través de la metodología </>peer-to-peer</i>. Mi enfoque se aleja de la teoría convencional para centrarse en la resolución práctica de problemas y el entendimiento profundo de los sistemas.
+  Actualmente formándome en <b>42 Málaga</b>, donde desarrollo mi capacidad técnica a través de la metodología <i>peer-to-peer</i>. Mi enfoque se aleja de la teoría convencional para centrarse en la resolución práctica de problemas y el entendimiento profundo de los sistemas.
   <br><br>
   Más allá de las exigencias del <i>cursus</i>, me interesa explorar la lógica que subyace en el software y cómo las estructuras de bajo nivel impactan en el rendimiento final. Considero cada proyecto como una oportunidad para pulir mi lógica y comprender la arquitectura detrás de lo que escribo.
 </div>
