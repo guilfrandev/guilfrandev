@@ -33,7 +33,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,bash,git,github" />
 </p>
 
 <br>
