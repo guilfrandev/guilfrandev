@@ -72,7 +72,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 ## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilfran42&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilfrandev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/guilfran42">
+  <a href="https://github.com/guilfrandev">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
