@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hola, soy Guillermo 
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" width="30px">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" width="30px" style="vertical-align: middle;">
 </h1>
 
 
