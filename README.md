@@ -6,12 +6,20 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-Soy un desarrollador apasionado por los desafíos técnicos y la eficiencia, formado bajo la metodología **42**. Este sistema me ha permitido desarrollar una gran capacidad de autogestión, resolución de problemas complejos y trabajo colaborativo mediante el aprendizaje *peer-to-peer*. Mi enfoque principal es escribir código limpio, eficiente y escalable.
+<div align="center">
+  <h3>👨‍💻 Desarrollador de Software | Estudiante en 42 Málaga</h3>
+  <p>Enfocado en la creación de soluciones eficientes, código escalable y resolución de retos complejos mediante la metodología <em>peer-to-peer</em>.</p>
+</div>
 
-- 📍 Basado en Málaga, España.
-- 🚀 Enfocado en el desarrollo de software, sistemas y optimización.
-- 💡 Aprendiz constante, siempre buscando nuevos retos técnicos y adaptabilidad a nuevas tecnologías.
+<br>
+
+<div align="center">
+
+| 📍 Ubicación | 🚀 Especialidad | 💡 Enfoque |
+| :--- | :--- | :--- |
+| Málaga, España | Desarrollo de Sistemas | Código Limpio y Eficiente |
+
+</div>
 
 ---
 
