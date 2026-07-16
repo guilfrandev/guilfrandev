@@ -1,7 +1,11 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://i.ibb.co/gLF9cZ4M/BANNER.png" alt="Guillermo - Estudiante 42" width="100%">
+</p>
+
+<h1 align="center">Hola, soy Guillermo</h1>
+
+<p align="center">
+  <em>Estudiante de 42 Málaga.</em>
 </p>
 
 <!--
