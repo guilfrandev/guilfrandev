@@ -24,17 +24,25 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 - 💻 Programando principalmente en **C**
 - 🌱 Aprendiendo continuamente
 
+<br>
+
 ---
 
 ## 🛠️ Skills
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,vscode" />
 </p>
 
+<br>
+
 ---
 
 ## 🚀 Proyectos
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20proceso-blue?style=for-the-badge&logo=github" />
@@ -43,6 +51,8 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 <p align="center">
   Los proyectos irán apareciendo conforme avance en el <strong>Common Core</strong> de 42 Málaga.
 </p>
+
+<br>
 
 ---
 
