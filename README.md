@@ -2,7 +2,8 @@
   <img src="https://i.ibb.co/gLF9cZ4M/BANNER.png" alt="Guillermo - Estudiante 42" width="100%">
 </p>
 
-<h1 align="center">Hola, soy Guillermo 👋</h1>
+<h1 align="center">Hola, soy Guillermo <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/a86629ff-2d42-4028-b83b-9e63af776437" />
+</h1>
 
 <!--
 <p align="center">
