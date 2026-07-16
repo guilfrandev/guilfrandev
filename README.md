@@ -36,15 +36,24 @@
 
 <br>
 <p align="center">
-  <i>"Tecnologías y herramientas que utilizo en mi entorno de desarrollo:"</i>
+  <i>"Mi entorno de desarrollo y tecnologías fundamentales:"</i>
 </p>
 <br>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,markdown,supabase,postgres,mongodb,git,vscode,docker,aws,postman,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=c,bash,git,linux,vscode" />
   </a>
 </div>
+
+<br>
+
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  <p align="justify">
+    Actualmente mi flujo de trabajo está fuertemente centrado en el desarrollo de sistemas bajo entornos <b>Unix/Linux</b>. Utilizo <b>C</b> como lenguaje principal para desentrañar el funcionamiento interno de las estructuras de datos, apoyado por <b>Bash</b> para la automatización de procesos y <b>Git</b> para el control de versiones, asegurando un entorno de desarrollo eficiente y disciplinado.
+  </p>
+</div>
+
 <br>
 
 ---
