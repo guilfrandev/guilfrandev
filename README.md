@@ -29,7 +29,7 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,bash,git,github" />
 </p>
 
 <br>
@@ -44,14 +44,6 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
   <a href="https://github.com/guilfrandev/42Pr-cticasC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilfrandev&repo=42Pr-cticasC&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
-  <b>📚 42 Prácticas C</b>
-</p>
-
-<p align="center">
-Repositorio donde documento mi preparación para el <strong>Common Core de 42 Málaga</strong>, resolviendo ejercicios de C para reforzar mis fundamentos, mejorar mi lógica de programación y seguir mi progreso.
 </p>
 
 <br>
@@ -75,5 +67,5 @@ Repositorio donde documento mi preparación para el <strong>Common Core de 42 M�
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilfrandev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=guilfrandev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 </p>
