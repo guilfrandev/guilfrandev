@@ -20,10 +20,6 @@ Me apasiona comprender cómo funciona el software desde sus fundamentos. Disfrut
 
 Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me permiten crecer tanto técnica como personalmente.
 
-- 🎓 Estudiante de **42 Málaga**
-- 💻 Programando principalmente en **C**
-- 🌱 Aprendiendo continuamente
-
 <br>
 
 ---
