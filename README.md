@@ -30,17 +30,21 @@ Me apasiona aprender cómo funciona el software desde sus fundamentos. Actualmen
 
 <p align="center">
   <a href="https://github.com/guilfrandev/42Pr-cticasC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilfrandev&repo=42Pr-cticasC&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilfrandev&repo=42Pr-cticasC&theme=tokyonight&hide_border=true" alt="42 Prácticas C" />
   </a>
 </p>
 
-<p align="center">
-  <b>42 Prácticas C</b>
-</p>
+<div align="center">
 
-<p align="center">
-Repositorio donde documento mi preparación para el <strong>Common Core de 42 Málaga</strong>, resolviendo ejercicios de C para mejorar mi lógica, reforzar los fundamentos del lenguaje y mantener un seguimiento de mi progreso.
-</p>
+### 📚 42 Prácticas C
+
+Mi repositorio de preparación para el **Common Core de 42 Málaga**.
+
+En él recopilo los ejercicios que voy resolviendo para reforzar mis conocimientos de **C**, mejorar mi lógica de programación y documentar mi progreso antes de comenzar el cursus.
+
+**Tecnologías:** `C` · `Git` · `Linux`
+
+</div>
 
 ---
 
