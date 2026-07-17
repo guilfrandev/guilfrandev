@@ -36,30 +36,6 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ---
 
-## 🚀 Proyectos
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/guilfrandev/42Pr-cticasC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilfrandev&repo=42Pr-cticasC&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <b>42 Prácticas C</b>
-</p>
-
-<p align="center">
-Repositorio donde recopilo los ejercicios de C que voy resolviendo como preparación para el <strong>Common Core de 42 Málaga</strong>. Un proyecto con el que refuerzo los fundamentos del lenguaje, practico la resolución de problemas y documento mi progreso.
-</p>
-
-<br>
-
----
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
