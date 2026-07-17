@@ -38,17 +38,30 @@ Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me
 
 ## 🚀 Proyectos
 
-<br>
+<table>
+<tr>
+<td width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20proceso-blue?style=for-the-badge&logo=github" />
+### 📚 42 C Prep
+
+Repositorio donde documento mi preparación antes de comenzar el **Common Core de 42 Málaga**.
+
+**¿Qué encontrarás?**
+
+- 💻 Ejercicios de C resueltos por mí.
+- 📈 Seguimiento de mi progreso.
+- 🔄 Actualizaciones constantes.
+- 🧠 Práctica de algoritmos y lógica.
+
+<p>
+<a href="https://github.com/guilfrandev/42Pr-cticasC">
+<img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
-<p align="center">
-  Los proyectos irán apareciendo conforme avance en el <strong>Common Core</strong> de 42 Málaga.
-</p>
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
