@@ -35,10 +35,12 @@ Me apasiona aprender cómo funciona el software desde sus fundamentos. Actualmen
 </p>
 
 <p align="center">
-  <i>Mi repositorio de preparación para el Common Core de 42 Málaga.</i>
+  <b>42 Prácticas C</b>
 </p>
 
-> Conforme avance en el cursus iré añadiendo nuevos proyectos como **libft**, **ft_printf**, **get_next_line**, **push_swap**, **minishell** y muchos más.
+<p align="center">
+Repositorio donde documento mi preparación para el <strong>Common Core de 42 Málaga</strong>, resolviendo ejercicios de C para mejorar mi lógica, reforzar los fundamentos del lenguaje y mantener un seguimiento de mi progreso.
+</p>
 
 ---
 
