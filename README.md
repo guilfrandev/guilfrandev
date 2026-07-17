@@ -12,61 +12,37 @@
 
 ## 👨‍💻 Sobre mí
 
-<br>
+Soy **Guillermo**, tengo **18 años** y soy estudiante de **42 Málaga**.
 
-Soy **Guillermo**, tengo **18 años** y actualmente estudio en **42 Málaga**, donde aprendo programación a través de una metodología basada en proyectos y resolución de problemas.
-
-Me apasiona comprender cómo funciona el software desde sus fundamentos. Disfruto trabajando con **C**, explorando **Linux** y enfrentándome a retos que me obliguen a pensar, aprender y mejorar como desarrollador.
-
-Actualmente sigo ampliando mis conocimientos mientras construyo proyectos que me permiten crecer tanto técnica como personalmente.
-
-<br>
+Me apasiona aprender cómo funciona el software desde sus fundamentos. Actualmente dedico mi tiempo a mejorar mis conocimientos en **C**, **Linux** y resolución de problemas mediante proyectos prácticos.
 
 ---
 
 ## 🛠️ Skills
 
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,bash,git,github,linux,vscode" />
 </p>
-
-<br>
 
 ---
 
 ## 🚀 Proyectos
 
-<table>
-<tr>
-<td width="100%">
-
-### 📚 42 C Prep
-
-Repositorio donde documento mi preparación antes de comenzar el **Common Core de 42 Málaga**.
-
-**¿Qué encontrarás?**
-
-- 💻 Ejercicios de C resueltos por mí.
-- 📈 Seguimiento de mi progreso.
-- 🔄 Actualizaciones constantes.
-- 🧠 Práctica de algoritmos y lógica.
-
-<p>
-<a href="https://github.com/guilfrandev/42Pr-cticasC">
-<img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://github.com/guilfrandev/42Pr-cticasC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilfrandev&repo=42Pr-cticasC&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Mi repositorio de preparación para el Common Core de 42 Málaga.</i>
+</p>
+
+> Conforme avance en el cursus iré añadiendo nuevos proyectos como **libft**, **ft_printf**, **get_next_line**, **push_swap**, **minishell** y muchos más.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+## 📊 GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=guilfrandev&theme=tokyonight&hide_border=true" />
@@ -83,5 +59,5 @@ Repositorio donde documento mi preparación antes de comenzar el **Common Core d
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilfran42&label=Visitas+al+perfil&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=guilfrandev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
 </p>
